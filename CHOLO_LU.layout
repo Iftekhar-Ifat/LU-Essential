@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="humayra.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2184" topLine="93" />
+		</Cursor>
+	</File>
+	<File name="iftekhar.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9541" topLine="267" />
+		</Cursor>
+	</File>
+	<File name="sajid.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5179" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="23" />
+			<Collapse line="36" />
+			<Collapse line="84" />
+			<Collapse line="148" />
+			<Collapse line="171" />
+			<Collapse line="295" />
+			<Collapse line="347" />
+			<Collapse line="398" />
+			<Collapse line="438" />
+			<Collapse line="490" />
+			<Collapse line="538" />
+			<Collapse line="664" />
+			<Collapse line="708" />
+		</Folding>
+	</File>
+	<File name="badhon.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="khadiza.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="840" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
